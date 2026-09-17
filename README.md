@@ -1,0 +1,1 @@
+Multi-Engine SerpApi Fanout: Beyond basic web search, DeepVerify dynamically routes queries across specialized SerpApi engines including Google Web, Google News (breaking announcements & temporal updates), Google Scholar (peer-reviewed papers & citations), Google Shopping (hardware pricing & commercial unit economics), and Google Jobs (talent & hiring indicators).
