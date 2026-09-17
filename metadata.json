@@ -1,0 +1,6 @@
+{
+  "name": "DeepVerify - Autonomous Deep Research Agent",
+  "description": "Multi-engine autonomous deep research and fact-verification agent built for the SerpApi India Hackathon Track 1 with live reasoning orchestration, multi-source retrieval, and grounded synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
